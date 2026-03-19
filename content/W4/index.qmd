@@ -216,6 +216,11 @@ Goal: Build a Pipeline to handle preprocessing of both categorical and numerical
 
 - [[Lab]](./modules/M5/lessons/06_lab_shap.ipynb)
 
+
+## Project
+
+[**Project**](./Project/Project.qmd).
+
 ## Resources
 
 - [CS129: Applied ML \| Standford](https://web.stanford.edu/class/cs129/syllabus)
