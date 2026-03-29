@@ -148,7 +148,7 @@ git merge feature/new-header
 When we update the upstream, you can pull the changes.
 
 ::: {.incremental}
-1. Fork the GitHub repo [HassanAlgoz/python](https://github.com/HassanAlgoz/python/tree/main)
+1. Fork the GitHub repo [HassanAlgoz/B5](https://github.com/HassanAlgoz/B5/tree/main)
 2. Clone your own fork
 3. Setup the upstream (register another source for pulling changes from)
 4. Ask for the latest updates from that source.
@@ -164,7 +164,7 @@ When we update the upstream, you can pull the changes.
 Connect to the original repository (only needs to be done once):
 
 ```bash
-git remote add upstream https://github.com/HassanAlgoz/python.git
+git remote add upstream https://github.com/HassanAlgoz/B5.git
 ```
 
 Bring the latest changes into your local machine:

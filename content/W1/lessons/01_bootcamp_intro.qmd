@@ -58,7 +58,7 @@ Tentative schedule:
 
 ## Submit your Work {#submit-your-work}
 
-Your GitHub repo is your **proof-of-work**. Open the repo [HassanAlgoz/python](https://github.com/HassanAlgoz/python/tree/main) then:
+Your GitHub repo is your **proof-of-work**. Open the repo [HassanAlgoz/B5](https://github.com/HassanAlgoz/B5/tree/main) then:
 
 ::: {.incremental}
 1. Fork it from the GitHub website
